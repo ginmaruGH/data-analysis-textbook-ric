@@ -14,3 +14,26 @@
   - [Pythonによる数理最適化入門 2018/4/9](https://www.amazon.co.jp/Python%E3%81%AB%E3%82%88%E3%82%8B%E6%95%B0%E7%90%86%E6%9C%80%E9%81%A9%E5%8C%96%E5%85%A5%E9%96%80-%E5%AE%9F%E8%B7%B5Python%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%83%BC-%E4%B9%85%E4%BF%9D-%E5%B9%B9%E9%9B%84/dp/4254128959/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2P1LX8G1D6LSM&keywords=python+%E6%95%B0%E7%90%86%E6%9C%80%E9%81%A9%E5%8C%96&qid=1668693045&qu=eyJxc2MiOiIyLjQ5IiwicXNhIjoiMS43OSIsInFzcCI6IjEuNTQifQ%3D%3D&s=books&sprefix=python+%E6%95%B0%E7%90%86%E6%9C%80%E9%81%A9%E5%8C%96%2Cstripbooks%2C200&sr=1-2)
 
 ---
+
+## Ch05 データサイエンスの現場適用とは
+
+- LightGBM
+  - [LightGBM Official](https://lightgbm.readthedocs.io/en/latest/)
+  - [microsoft/LightGBM](https://github.com/microsoft/LightGBM)
+  - [LightGBM PDF](https://proceedings.neurips.cc/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf#search='lightGBM+paper)
+- Kedro
+  - [kedro-org/kedro](https://github.com/kedro-org/kedro)
+  - [Kedro Documents](https://kedro.readthedocs.io/en/stable/)
+- MLflow
+  - [MLflow Official](https://mlflow.org/)
+  - [MLflow Documentation](https://mlflow.org/docs/latest/index.html)
+- Optuna
+  - [Optuna Official](https://optuna.org/)
+  - [optuna/optuna](https://github.com/optuna/optuna)
+  - [Optuna の拡張機能 LightGBM Tuner によるハイパーパラメータ自動最適化](https://tech.preferred.jp/ja/blog/hyperparameter-tuning-with-optuna-integration-lightgbm-tuner/)
+- Apache Airflow
+  - [Apache Airflow Official](https://airflow.apache.org/)
+  - [apache/airflow](https://github.com/apache/airflow)
+- PDF
+  - [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
+  - [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](https://dl.acm.org/doi/pdf/10.1145/3097983.3098021)
